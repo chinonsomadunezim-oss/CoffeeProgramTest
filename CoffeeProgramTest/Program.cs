@@ -68,6 +68,9 @@ namespace ConsoleApplication
 					discount = totalCost * 0.20;
 				}
 
+				Console.WriteLine("\nThank you for shopping with us!");
+
+
 				// Print Bill
 				Console.WriteLine();
 				Console.WriteLine("--------------------------------------------");
